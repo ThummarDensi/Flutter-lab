@@ -1,0 +1,13 @@
+import 'package:flutter/material.dart'; 
+void main() { 
+ runApp( 
+ MaterialApp( 
+ debugShowCheckedModeBanner: false, 
+ home: Text( 
+ "Hello Prushti", 
+ style: TextStyle( 
+ color: Colors.pink, fontSize: 30, fontWeight: FontWeight.bold), 
+ ), 
+ ), 
+ ); 
+}
