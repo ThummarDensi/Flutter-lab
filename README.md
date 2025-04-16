@@ -4,7 +4,7 @@ This repository contains all the practicals for the subject **App Development Us
 
 ## 👩‍💻 Student Info
 
-- **Name:** [Densi Thummar]
+- **Name:** Densi Thummar
 - **Enrollment No.:** 92200103015
 - **Class:** 6TC4
 - **Institute:** Marwadi University
